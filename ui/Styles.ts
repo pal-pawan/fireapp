@@ -1,15 +1,15 @@
 const Colors = {
-    primary: "#D63B5A",
-    background: "#F8D9E1",
-    secondary: "#F2A6B3",
-    highlight: "#EB5D6A",
-    text_primary: "#D63B5A",
-    text_secondary: "#C2C2C2",
-    accent_primary : "#B2A9F6",
-    accent_secondary : "#F7C548",
-    support_blue : "#3F7BB6",
-    support_green : "#5A9B64",
-    support_offwhite : "#FFF8F3",
+    primary: "#B03A4B",
+    background: "#F3E6E9",
+    secondary: "#D78A96",
+    highlight: "#C24C5A",
+    text_primary: "#2E2E2E",
+    text_secondary: "#7A7A7A",
+    accent_primary : "#8C84D8",
+    accent_secondary : "#E2B94D",
+    support_blue : "#496D91",
+    support_green : "#4E7C59",
+    support_offwhite : "#F7F4F1",
 }
 
 const TextStyles = {
